@@ -1,4 +1,3 @@
-# iezekiile.github.io
 <h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">Junior Android Developer from Ukraine</h3>
 
